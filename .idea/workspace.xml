@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="mimuw-algorithms" targetName="bazarek" />
+      <config projectName="mimuw-algorithms" targetName="suma_kwadratow" />
+      <config projectName="mimuw-algorithms" targetName="dyn_splay" />
+      <config projectName="mimuw-algorithms" targetName="odwracanie" />
+      <config projectName="mimuw-algorithms" targetName="matryca" />
+      <config projectName="mimuw-algorithms" targetName="lex" />
+      <config projectName="mimuw-algorithms" targetName="choinka" />
+      <config projectName="mimuw-algorithms" targetName="urozmaicone" />
+      <config projectName="mimuw-algorithms" targetName="estetyczne" />
+      <config projectName="mimuw-algorithms" targetName="ciag" />
+      <config projectName="mimuw-algorithms" targetName="komitet" />
+      <config projectName="mimuw-algorithms" targetName="parking" />
+      <config projectName="mimuw-algorithms" targetName="projekty_egz" />
+      <config projectName="mimuw-algorithms" targetName="sortowanie" />
+      <config projectName="mimuw-algorithms" targetName="przedzialy" />
+      <config projectName="mimuw-algorithms" targetName="kin_dp" />
+      <config projectName="mimuw-algorithms" targetName="malowanie" />
+      <config projectName="mimuw-algorithms" targetName="podzielnosc" />
+      <config projectName="mimuw-algorithms" targetName="gielda" />
+      <config projectName="mimuw-algorithms" targetName="projekty" />
+      <config projectName="mimuw-algorithms" targetName="trojki" />
+      <config projectName="mimuw-algorithms" targetName="perly" />
+      <config projectName="mimuw-algorithms" targetName="jedynki" />
+      <config projectName="mimuw-algorithms" targetName="mecze" />
+      <config projectName="mimuw-algorithms" targetName="kapitan" />
+      <config projectName="mimuw-algorithms" targetName="park" />
+      <config projectName="mimuw-algorithms" targetName="podciagi_rosnace" />
+      <config projectName="mimuw-algorithms" targetName="dyn_vector" />
+      <config projectName="mimuw-algorithms" targetName="marszruta" />
+      <config projectName="mimuw-algorithms" targetName="roznica" />
+      <config projectName="mimuw-algorithms" targetName="kin_segtree" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9df9ead-54c0-42b0-86d2-e357ab3eb42a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.4" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2Hco8e6pKVqLUWM397gllAwRrz0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/alek/mimuw-algorithms",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "two.files.diff.last.used.file": "/home/alek/asd_lab/lab06/mytest_splay.out",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/maciek_komitet" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/labs" />
+      <recent name="$PROJECT_DIR$/graded" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.marszruta">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bazarek" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="bazarek" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="bazarek">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="choinka" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="choinka" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="choinka">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ciag" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="ciag" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="ciag">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dyn_splay" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="true" REDIRECT_INPUT_PATH="$PROJECT_DIR$/lab06/mytest.in" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="dyn_splay" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="dyn_splay">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dyn_vector" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="true" REDIRECT_INPUT_PATH="$PROJECT_DIR$/lab06/test1.in" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="dyn_vector" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="dyn_vector">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="estetyczne" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="estetyczne" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="estetyczne">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gielda" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="gielda" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="gielda">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jedynki" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="jedynki" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="jedynki">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kapitan" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="kapitan" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="kapitan">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kin_dp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="kin_dp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="kin_dp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kin_segtree" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="kin_segtree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="kin_segtree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="komitet" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="true" REDIRECT_INPUT_PATH="$PROJECT_DIR$/zal1/test8.in" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="komitet" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="komitet">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lex" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="lex" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="lex">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="malowanie" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="malowanie" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="malowanie">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="marszruta" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="marszruta" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="marszruta">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="matryca" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="matryca" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="matryca">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mecze" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="mecze" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="mecze">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="odwracanie" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="odwracanie" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="odwracanie">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="park" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="park" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="park">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parking" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="parking" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="parking">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="perly" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="perly" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="perly">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="podciagi_rosnace" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="podciagi_rosnace" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="podciagi_rosnace">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="podzielnosc" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="podzielnosc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="podzielnosc">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="projekty" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="projekty" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="projekty">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="projekty_egz" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="projekty_egz" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="projekty_egz">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="przedzialy" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="przedzialy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="przedzialy">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="roznica" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="roznica" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="roznica">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sortowanie" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="sortowanie" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="sortowanie">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="suma_kwadratow" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="suma_kwadratow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="suma_kwadratow">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="trojki" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="trojki" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="trojki">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="urozmaicone" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="mimuw-algorithms" TARGET_NAME="urozmaicone" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="mimuw-algorithms" RUN_TARGET_NAME="urozmaicone">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.bazarek" />
+      <item itemvalue="CMake Application.choinka" />
+      <item itemvalue="CMake Application.ciag" />
+      <item itemvalue="CMake Application.dyn_splay" />
+      <item itemvalue="CMake Application.dyn_vector" />
+      <item itemvalue="CMake Application.estetyczne" />
+      <item itemvalue="CMake Application.gielda" />
+      <item itemvalue="CMake Application.jedynki" />
+      <item itemvalue="CMake Application.kapitan" />
+      <item itemvalue="CMake Application.kin_dp" />
+      <item itemvalue="CMake Application.kin_segtree" />
+      <item itemvalue="CMake Application.komitet" />
+      <item itemvalue="CMake Application.lex" />
+      <item itemvalue="CMake Application.malowanie" />
+      <item itemvalue="CMake Application.marszruta" />
+      <item itemvalue="CMake Application.matryca" />
+      <item itemvalue="CMake Application.mecze" />
+      <item itemvalue="CMake Application.odwracanie" />
+      <item itemvalue="CMake Application.park" />
+      <item itemvalue="CMake Application.parking" />
+      <item itemvalue="CMake Application.perly" />
+      <item itemvalue="CMake Application.podciagi_rosnace" />
+      <item itemvalue="CMake Application.podzielnosc" />
+      <item itemvalue="CMake Application.projekty" />
+      <item itemvalue="CMake Application.projekty_egz" />
+      <item itemvalue="CMake Application.przedzialy" />
+      <item itemvalue="CMake Application.roznica" />
+      <item itemvalue="CMake Application.sortowanie" />
+      <item itemvalue="CMake Application.suma_kwadratow" />
+      <item itemvalue="CMake Application.trojki" />
+      <item itemvalue="CMake Application.urozmaicone" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9df9ead-54c0-42b0-86d2-e357ab3eb42a" name="Changes" comment="" />
+      <created>1668593575034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668593575034</updated>
+      <workItem from="1668593576557" duration="3644000" />
+      <workItem from="1668624913001" duration="17916000" />
+      <workItem from="1668676738502" duration="4729000" />
+      <workItem from="1668683536908" duration="975000" />
+      <workItem from="1668708848493" duration="9251000" />
+      <workItem from="1668797040069" duration="15000" />
+      <workItem from="1668963218883" duration="5087000" />
+      <workItem from="1669111637197" duration="201000" />
+      <workItem from="1669660431278" duration="13655000" />
+      <workItem from="1669716440644" duration="8000" />
+      <workItem from="1669745151086" duration="4513000" />
+      <workItem from="1669842158228" duration="29000" />
+      <workItem from="1670778372402" duration="110000" />
+      <workItem from="1670925911863" duration="5000" />
+      <workItem from="1671473828846" duration="1008000" />
+      <workItem from="1673026228723" duration="7093000" />
+      <workItem from="1673104833710" duration="610000" />
+      <workItem from="1673111238289" duration="895000" />
+      <workItem from="1673181507593" duration="5134000" />
+      <workItem from="1673192179564" duration="32000" />
+      <workItem from="1673214566902" duration="11954000" />
+      <workItem from="1673268426146" duration="32000" />
+      <workItem from="1675183518064" duration="3443000" />
+      <workItem from="1675259696514" duration="10870000" />
+      <workItem from="1675289198705" duration="6640000" />
+      <workItem from="1675338294483" duration="11351000" />
+      <workItem from="1675438024141" duration="5620000" />
+      <workItem from="1675447487496" duration="4717000" />
+      <workItem from="1675463294001" duration="647000" />
+      <workItem from="1675508388068" duration="4872000" />
+      <workItem from="1676207763947" duration="29000" />
+      <workItem from="1680439434734" duration="165000" />
+      <workItem from="1712008479098" duration="449000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
